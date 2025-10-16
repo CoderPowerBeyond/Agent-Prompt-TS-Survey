@@ -56,49 +56,49 @@ Our survey directly addresses these gaps by providing a systematic exploration o
 
 #### +Direct Prompting
 
-1. Harnessing LLMs for Temporal Data-A Study on Explainable Financial Time Series Forecasting
-2. Pretrained LLMs as Real-Time Controllers for Robot Operated Serial Production Line
-3. $s^2$ IP-LLM: Semantic space informed prompt learning with LLM for time series forecasting
-4. Univariate to Multivariate: LLMs as Zero-Shot Predictors for Time-Series Forecasting
-5. Refining Time Series Anomaly Detectors using Large Language Models
-6. See it, think it, sorted: Large multimodal models are few-shot time series anomaly analyzers
-7. SST-LLM: time series forecasting based on large language models
-8. LLM-DSK: A Domain-Specific Semantic Knowledge-Guided Ocean Environment Prediction Method Based on Large Language Models
-9. Time series forecasting with llms: Understanding and enhancing model capabilities
-10. Large language models are zero-shot time series forecasters
-11. Large language models can deliver accurate and interpretable time series anomaly detection
-12. Aad-llm: Adaptive anomaly detection using large language models
-13. Large language models can be zero-shot anomaly detectors for time series?
+- Harnessing LLMs for Temporal Data-A Study on Explainable Financial Time Series Forecasting
+- Pretrained LLMs as Real-Time Controllers for Robot Operated Serial Production Line
+- $s^2$ IP-LLM: Semantic space informed prompt learning with LLM for time series forecasting
+- Univariate to Multivariate: LLMs as Zero-Shot Predictors for Time-Series Forecasting
+- Refining Time Series Anomaly Detectors using Large Language Models
+- See it, think it, sorted: Large multimodal models are few-shot time series anomaly analyzers
+- SST-LLM: time series forecasting based on large language models
+- LLM-DSK: A Domain-Specific Semantic Knowledge-Guided Ocean Environment Prediction Method Based on Large Language Models
+- Time series forecasting with llms: Understanding and enhancing model capabilities
+- Large language models are zero-shot time series forecasters
+- Large language models can deliver accurate and interpretable time series anomaly detection
+- Aad-llm: Adaptive anomaly detection using large language models
+- Large language models can be zero-shot anomaly detectors for time series?
 
 #### +Instruction Tuning
 
-1. LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data
-2. Proactive Detection and Calibration of Seasonal Advertisements with Multimodal Large Language Models
-3. FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting
-4. An LLM-Based Method for Quality Information Extraction From Web Text for Crowed-Sensing Spatiotemporal Data
-5. InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems
-6. LLM-TFP: Integrating large language models with spatio-temporal features for urban traffic flow prediction
-7. EF-LLM: Energy forecasting LLM with AI-assisted automation, enhanced sparse prediction, hallucination detection
-8. LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics
-9. TSRating: Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment
-10. PaSTS: Parameter-affined Seasonal-Trend Synthesis for Multi-dimensional Long-Term Time Series Forecasting within LLM
-11. Research on cloud platform network traffic monitoring and anomaly detection system based on large language models
-12. Trend Decomposition Enhanced Large Language Model for Non-Stationary Network Traffic Prediction
-13. ADTime: Adaptive Multivariate Time Series Forecasting Using LLMs
-14. Position: Empowering time series reasoning with multimodal llms
-15. AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
-16. Genomics-Enhanced Cancer Risk Prediction for Personalized LLMs-Driven Healthcare Recommender Systems
-17. Back to the future: Towards explainable temporal reasoning with large language models
-18. Lightweight LLM-Based Anomaly Detection Framework for Securing IoTMD Enabled Diabetes Management Control Systems
-19. Foundation Forecasting in IoE Networks: When Generative AI Meets Programmable Edge Nodes
-20. From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization
-21. Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs
-22. Action Prompt Assimilation in Large Language Models for Time Series Forecasting of Nuclear Power Industry Systems
-23. Llm-based misbehavior detection architecture for enhanced traffic safety in connected autonomous vehicles
-24. LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction
-25. AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence
-26. Time series forecasting based on optimized LLM for fault prediction in distribution power grid insulators
-27. A Three-Tier LLM Framework for Forecasting Student Engagement from Qualitative Longitudinal Data
+- LLMForecaster: Improving Seasonal Event Forecasts with Unstructured Textual Data
+- Proactive Detection and Calibration of Seasonal Advertisements with Multimodal Large Language Models
+- FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting
+- An LLM-Based Method for Quality Information Extraction From Web Text for Crowed-Sensing Spatiotemporal Data
+- InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems
+- LLM-TFP: Integrating large language models with spatio-temporal features for urban traffic flow prediction
+- EF-LLM: Energy forecasting LLM with AI-assisted automation, enhanced sparse prediction, hallucination detection
+- LLM-PS: Empowering Large Language Models for Time Series Forecasting with Temporal Patterns and Semantics
+- TSRating: Rating Quality of Diverse Time Series Data by Meta-learning from LLM Judgment
+- PaSTS: Parameter-affined Seasonal-Trend Synthesis for Multi-dimensional Long-Term Time Series Forecasting within LLM
+- Research on cloud platform network traffic monitoring and anomaly detection system based on large language models
+- Trend Decomposition Enhanced Large Language Model for Non-Stationary Network Traffic Prediction
+- ADTime: Adaptive Multivariate Time Series Forecasting Using LLMs
+- Position: Empowering time series reasoning with multimodal llms
+- AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
+- Genomics-Enhanced Cancer Risk Prediction for Personalized LLMs-Driven Healthcare Recommender Systems
+- Back to the future: Towards explainable temporal reasoning with large language models
+- Lightweight LLM-Based Anomaly Detection Framework for Securing IoTMD Enabled Diabetes Management Control Systems
+- Foundation Forecasting in IoE Networks: When Generative AI Meets Programmable Edge Nodes
+- From Values to Tokens: An LLM-Driven Framework for Context-aware Time Series Forecasting via Symbolic Discretization
+- Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs
+- Action Prompt Assimilation in Large Language Models for Time Series Forecasting of Nuclear Power Industry Systems
+- Llm-based misbehavior detection architecture for enhanced traffic safety in connected autonomous vehicles
+- LLM4FTS: Enhancing Large Language Models for Financial Time Series Prediction
+- AI on the Pulse: Real-Time Health Anomaly Detection with Wearable and Ambient Intelligence
+- Time series forecasting based on optimized LLM for fault prediction in distribution power grid insulators
+- A Three-Tier LLM Framework for Forecasting Student Engagement from Qualitative Longitudinal Data
 
 ### Agentic Systems
 
@@ -111,90 +111,90 @@ Our survey directly addresses these gaps by providing a systematic exploration o
 
 ##### +Direct Prompting
 
-1. AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
-2. Position: Empowering time series reasoning with multimodal llms
-3. An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
-4. RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
-5. Agentic AI for autonomous anomaly management in complex systems
-6. Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
-7. Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations
+- AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
+- Position: Empowering time series reasoning with multimodal llms
+- An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
+- RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
+- Agentic AI for autonomous anomaly management in complex systems
+- Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
+- Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations
 
 ##### +Instruction Tuning
 
-1. IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
+- IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
 
 ##### Others
 
-1. FinRL-DeepSeek: LLM-infused risk-sensitive reinforcement learning for trading agents
-2. TradingAgents: Multi-Agents LLM Financial Trading Framework
-3. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
+- FinRL-DeepSeek: LLM-infused risk-sensitive reinforcement learning for trading agents
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
+- Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
 
 #### Reasoning
 
 ##### +Direct Prompting
 
-1. Position: Empowering time series reasoning with multimodal llms
-2. Pretrained LLMs as Real-Time Controllers for Robot Operated Serial Production Line
-3. FinRL-DeepSeek: LLM-infused risk-sensitive reinforcement learning for trading agents
-4. Visiongpt: Llm-assisted real-time anomaly detection for safe visual navigation
-5. Aad-llm: Adaptive anomaly detection using large language models
-6. An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
-7. RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
-8. Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
-9. Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
-10. Agentic AI for autonomous anomaly management in complex systems
-11. Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
-12. IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
-13. Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations
+- Position: Empowering time series reasoning with multimodal llms
+- Pretrained LLMs as Real-Time Controllers for Robot Operated Serial Production Line
+- FinRL-DeepSeek: LLM-infused risk-sensitive reinforcement learning for trading agents
+- Visiongpt: Llm-assisted real-time anomaly detection for safe visual navigation
+- Aad-llm: Adaptive anomaly detection using large language models
+- An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
+- RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
+- Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
+- Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
+- Agentic AI for autonomous anomaly management in complex systems
+- Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
+- IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
+- Can Large Language Models Trade? Testing Financial Theories with LLM Agents in Market Simulations
 
 ##### +Instruction Tuning
 
-1. AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
-2. InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems
-3. TRACE: Unlocking the Potential of LLMs in Time Series Forecasting for Distributed Energy Resources
+- AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
+- InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems
+- TRACE: Unlocking the Potential of LLMs in Time Series Forecasting for Distributed Energy Resources
 
 ##### Others
 
-1. TradingAgents: Multi-Agents LLM Financial Trading Framework
-2. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
+- Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
 
 #### Memory
 
-1. Aad-llm: Adaptive anomaly detection using large language models
-2. TradingAgents: Multi-Agents LLM Financial Trading Framework
-3. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
-4. Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
-5. Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
-6. Agentic AI for autonomous anomaly management in complex systems
-7. Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
-8. IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
+- Aad-llm: Adaptive anomaly detection using large language models
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
+- Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
+- Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
+- Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
+- Agentic AI for autonomous anomaly management in complex systems
+- Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
+- IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
 
 #### Tool Use
 
-1. AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
-2. Aad-llm: Adaptive anomaly detection using large language models
-3. TradingAgents: Multi-Agents LLM Financial Trading Framework
-4. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
-5. An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
-6. RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
-7. Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
-8. Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
-9. Agentic AI for autonomous anomaly management in complex systems
-10. Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
-11. IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
+- AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
+- Aad-llm: Adaptive anomaly detection using large language models
+- TradingAgents: Multi-Agents LLM Financial Trading Framework
+- Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
+- An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
+- RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
+- Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
+- Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
+- Agentic AI for autonomous anomaly management in complex systems
+- Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
+- IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
 
 #### Self-Refinement
 
-1. Position: Empowering time series reasoning with multimodal llms
-2. FinRL-DeepSeek: LLM-infused risk-sensitive reinforcement learning for trading agents
-3. InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems
-4. CALM: A Framework for Continuous, Adaptive, and LLM-Mediated Anomaly Detection in Time-Series Streams
-5. TRACE: Unlocking the Potential of LLMs in Time Series Forecasting for Distributed Energy Resources
-6. An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
-7. RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
-8. Aad-llm: Adaptive anomaly detection using large language models
-9. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
-10. Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
+- Position: Empowering time series reasoning with multimodal llms
+- FinRL-DeepSeek: LLM-infused risk-sensitive reinforcement learning for trading agents
+- InsightBuild: LLM-Powered Causal Reasoning in Smart Building Systems
+- CALM: A Framework for Continuous, Adaptive, and LLM-Mediated Anomaly Detection in Time-Series Streams
+- TRACE: Unlocking the Potential of LLMs in Time Series Forecasting for Distributed Energy Resources
+- An LLM-Powered Agent for Physiological Data Analysis: A Case Study on PPG-based Heart Rate Estimation
+- RTQA: Recursive Thinking for Complex Temporal Knowledge Graph Question Answering with Large Language Models
+- Aad-llm: Adaptive anomaly detection using large language models
+- Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
+- Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
 
 
 
