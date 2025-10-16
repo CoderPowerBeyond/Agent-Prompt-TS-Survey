@@ -31,8 +31,4 @@ The motivation for this survey is consequently anchored in three critical resear
 </p>
 
 
-## Taxonomy of This Survey
 
-<p align="center">
-  <img src="tax.png" alt="axonomy of LLM-Driven time series analysis from prompts to agents" width="1000"/>
-</p>
