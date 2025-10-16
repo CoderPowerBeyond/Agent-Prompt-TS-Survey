@@ -8,7 +8,7 @@ This repository is a continuously updated collection of papers and resources ded
 For an in-depth exploration, check out our survey paper: "From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis."
 
 If you find this project valuable for your research, we kindly ask you to consider citing our work:
-`
+```bibtex
 @misc{author,
       title={From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis}, 
       author={..},
