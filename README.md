@@ -3,7 +3,7 @@ From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysi
 
 
 ## About This Project
-This repository is a continuously updated collection of papers and resources dedicated to ##From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis##.
+This repository is a continuously updated collection of papers and resources dedicated to **From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis**.
 
 For an in-depth exploration, check out our survey paper: "From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis."
 
