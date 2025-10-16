@@ -69,6 +69,11 @@ Our survey directly addresses these gaps by providing a systematic exploration o
 - Large language models can deliver accurate and interpretable time series anomaly detection
 - Aad-llm: Adaptive anomaly detection using large language models
 - Large language models can be zero-shot anomaly detectors for time series?
+- Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting
+- A Soft Sensor Method with Uncertainty-Awareness and Self-Explanation Based on Large Language Models Enhanced by Domain Knowledge Retrieval
+- EXPRESS: An LLM-Generated Explainable Property Valuation System with Neighbor Imputation
+- Humans vs Large Language Models: Judgmental Forecasting in an Era of Advanced AI
+- Time-LLM: Time Series Forecasting by Reprogramming Large Language Models
 
 #### +Instruction Tuning
 
@@ -195,6 +200,8 @@ Our survey directly addresses these gaps by providing a systematic exploration o
 - Aad-llm: Adaptive anomaly detection using large language models
 - Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
 - Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
+- Aad-llm: Adaptive anomaly detection using large language models
+- Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
 
 
 
