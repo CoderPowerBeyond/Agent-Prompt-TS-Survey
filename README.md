@@ -1,6 +1,6 @@
 # From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis
 <p align="center">
-  <img src="fig_3_1.png" alt="The pipeline of LLM-Driven time series analysis from prompts to agents Architecture" width="1000"/>
+  <img src="\figure\pipeline.png" alt="The pipeline of LLM-Driven time series analysis from prompts to agents Architecture" width="1000"/>
 </p>
 <p align="center">The pipeline of LLM-Driven time series analysis from prompts to agents</p>
 
@@ -31,8 +31,28 @@ The motivation for this survey is consequently anchored in three critical resear
 
 Our survey directly addresses these gaps by providing a systematic exploration of how LLM agents synthesize perception, planning, tool manipulation, and reflective learning to revolutionize time series analysis. This integrated perspective responds to the escalating demand for autonomous systems capable of navigating the growing complexity and scale of temporal data across diverse application domains.
 
+## Table of Contents
+- [Passive Prompt Paradigm](#passive-prompt-paradigm)
+  - [+Direct Prompting](#direct-prompting)
+  - [+Instruction Tuning](#instruction-tuning)
+- [Agentic Systems](#agentic-systems)
+  - [Planning](#planning)
+    - [+Direct Prompting](#direct-prompting-1)
+    - [+Instruction Tuning](#instruction-tuning-1)
+    - [Others](#others)
+  - [Reasoning](#reasoning)
+    - [+Direct Prompting](#direct-prompting-2)
+    - [+Instruction Tuning](#instruction-tuning-2)
+    - [Others](#others)
+  - [Memory](#memory)
+  - [Tool Use](#tool-use)
+  - [Self-Refinement](#self-refinement)
 ## Paper
 ### Passive Prompt Paradigm
+<p align="center">
+  <img src="\figure\prompt component.png" alt="The components for prompts" width="1000"/>
+</p>
+<p align="center">The components for prompts</p>
 
 #### +Direct Prompting
 
@@ -81,6 +101,11 @@ Our survey directly addresses these gaps by providing a systematic exploration o
 27. A Three-Tier LLM Framework for Forecasting Student Engagement from Qualitative Longitudinal Data
 
 ### Agentic Systems
+
+<p align="center">
+  <img src="\figure\agent component.png" alt="The components for agents" width="1000"/>
+</p>
+<p align="center">The components for agents</p>
 
 #### Planning
 
@@ -133,7 +158,18 @@ Our survey directly addresses these gaps by providing a systematic exploration o
 1. TradingAgents: Multi-Agents LLM Financial Trading Framework
 2. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
 
-#### Tools use
+#### Memory
+
+1. Aad-llm: Adaptive anomaly detection using large language models
+2. TradingAgents: Multi-Agents LLM Financial Trading Framework
+3. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
+4. Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
+5. Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
+6. Agentic AI for autonomous anomaly management in complex systems
+7. Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
+8. IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
+
+#### Tool Use
 
 1. AIS-LLM: A Unified Framework for Maritime Trajectory Prediction, Anomaly Detection, and Collision Risk Assessment with Explainable Forecasting
 2. Aad-llm: Adaptive anomaly detection using large language models
@@ -146,17 +182,6 @@ Our survey directly addresses these gaps by providing a systematic exploration o
 9. Agentic AI for autonomous anomaly management in complex systems
 10. Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
 11. IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
-
-#### Memory
-
-1. Aad-llm: Adaptive anomaly detection using large language models
-2. TradingAgents: Multi-Agents LLM Financial Trading Framework
-3. Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making
-4. Question Answering under Temporal Conflict: Evaluating and Organizing Evolving Knowledge with LLMs
-5. Argos: Agentic time-series anomaly detection with autonomous rule generation via large language models
-6. Agentic AI for autonomous anomaly management in complex systems
-7. Integrating Traditional Technical Analysis with AI: A Multi-Agent LLM-Based Approach to Stock Market Forecasting
-8. IIoT-enabled digital twin for legacy and smart factory machines with LLM integration
 
 #### Self-Refinement
 
