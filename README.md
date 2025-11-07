@@ -12,16 +12,9 @@ For in-depth knowledge, check out our survey paper: "From Prompts to Agents: A C
 If you find this project helpful, we kindly ask you to consider citing our work:
 
 ```bibtex
-@misc{zhang_2025_17491653,
-  author       = {Zhang, Regina and GOH, SI QI and CHEN,XINGSHENG and LI,ZONGRU and WEN,HONGGANG and GUO,JIALE and YANG,MENGLIN and YIN,HONGZHI and YANG,QIANG and YIU,SIU-MING and LAM,KWOK-YAN},
-  title        = {From Prompts to Agents: A Comprehensive Survey of
-                   LLM-Driven Time Series Analysis
-                  },
-  month        = oct,
-  year         = 2025,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.17491653},
-  url          = {https://doi.org/10.5281/zenodo.17491653},
+@article{zhangprompts,
+  title={From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis},
+  author={ZHANG, REGINA and GOH, SIQI and CHEN, XINGSHENG and LI, ZONGRU and WEN, HONGGANG and GUO, JIALE and YANG, MENGLIN and YIN, HONGZHI and YANG, QIANG and YIU, SIU-MING and others}
 }
 ```
 
