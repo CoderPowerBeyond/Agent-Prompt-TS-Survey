@@ -14,7 +14,10 @@ If you find this project helpful, we kindly ask you to consider citing our work:
 ```bibtex
 @article{zhangprompts,
   title={From Prompts to Agents: A Comprehensive Survey of LLM-Driven Time Series Analysis},
-  author={ZHANG, REGINA and GOH, SIQI and CHEN, XINGSHENG and LI, ZONGRU and WEN, HONGGANG and GUO, JIALE and YANG, MENGLIN and YIN, HONGZHI and YANG, QIANG and YIU, SIU-MING and others}
+  author={ZHANG, REGINA and GOH, SIQI and CHEN, XINGSHENG and LI, ZONGRU and WEN, HONGGANG and GUO, JIALE and YANG, MENGLIN and YIN, HONGZHI and YANG, QIANG and YIU, SIU-MING and others},
+  year = {2025},
+  month = {11},
+  doi = {10.5281/zenodo.17491652}
 }
 ```
 
